@@ -17,7 +17,7 @@
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    viewBox="0 0 13020.012 7424.3003"
    id="svg149"
-   sodipodi:docname="hungrysqurrels.svg"
+   sodipodi:docname="rse_single.svg"
    inkscape:version="0.91 r13725"
    inkscape:export-filename="D:\src\rse\hungrysquirrels.png"
    inkscape:export-xdpi="400.0206"
@@ -97,10 +97,12 @@
          height="1"
          width="1" /></mask></defs><g
      id="Layer_x0020_1"
-     transform="translate(-35066.106,-9623)"><metadata
+     transform="translate(-34977.218,-9623)"
+     inkscape:export-xdpi="152.3387"
+     inkscape:export-ydpi="152.3387"><metadata
        id="CorelCorpID_0Corel-Layer" /><polygon
        class="fil3"
-       points="48103,12543 48105,12545 48106,12545 "
+       points="48106,12545 48103,12543 48105,12545 "
        id="polygon78"
        style="fill:#373435;fill-rule:nonzero" /><polygon
        class="fil3"
@@ -124,7 +126,9 @@
        style="fill:#b03686;fill-opacity:1;fill-rule:nonzero" /></g><g
      transform="matrix(1.1663047,0,0,-1.1663047,9146.8778,6131.7221)"
      inkscape:label="rsede"
-     id="g4530"><g
+     id="g4530"
+     inkscape:export-xdpi="152.3387"
+     inkscape:export-ydpi="152.3387"><g
        id="g4532" /><g
        id="g4534"><g
          clip-path="url(#clipPath4540)"
@@ -143,7 +147,9 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:863.17254639px;line-height:1.25;font-family:Adonais;-inkscape-font-specification:Adonais;letter-spacing:0px;word-spacing:0px;fill:#b03686;fill-opacity:1;stroke:none;stroke-width:21.57931519"
      x="-30.088253"
      y="7399.4404"
-     id="text4515"><tspan
+     id="text4515"
+     inkscape:export-xdpi="152.3387"
+     inkscape:export-ydpi="152.3387"><tspan
        sodipodi:role="line"
        id="tspan4513"
        x="-30.088253"
